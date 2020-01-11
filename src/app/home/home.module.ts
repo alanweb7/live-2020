@@ -6,6 +6,9 @@ import { RouterModule } from '@angular/router';
 
 import { HomePage } from './home.page';
 
+//Videogular
+
+
 @NgModule({
   imports: [
     CommonModule,
